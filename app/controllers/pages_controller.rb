@@ -7,4 +7,7 @@ class PagesController < ApplicationController
     @title = 'Мы учим людей программированию и делаем мир лучше!'
   end
 
+
+
+
 end
